@@ -233,16 +233,7 @@ Soluciones:
 - Verificar estado de Redis
 - Reducir rango de fechas en reportes
 - Aumentar recursos del servidor
-## Licencia
  
-Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
- 
-## Contacto y Soporte
- 
-- Autor: Daniel Bernard Peñuelas
-- Email: daniel@example.com
-- Issues: https://github.com/DanielBernadPenuelas/Intranet_para_flujo_de_datos/issues
-- Documentación: https://github.com/DanielBernadPenuelas/Intranet_para_flujo_de_datos/wiki
 ## Changelog
  
 ### Versión 1.0.0 (2024)
@@ -252,4 +243,4 @@ Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
 - API REST completa
 ---
  
-Última actualización: 2024
+Última actualización: 2026
